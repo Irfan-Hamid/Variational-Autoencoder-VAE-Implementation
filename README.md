@@ -27,4 +27,8 @@ This project implements a Variational Autoencoder (VAE) in PyTorch to model the 
 - Fit the model to MNIST using variational inference and gradient ascent.
 - Visualise and evaluate the fitted model through sampling and latent projections.
 
+## How to Run
+
+- Clone the repository.  
+- Open and run the `VAE.ipynb` notebook in Google Colab.
 
