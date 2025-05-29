@@ -1,4 +1,4 @@
-# Variational Autoencoder on MNIST
+# Variational Autoencoder (VAE) with Gaussian Encoder and Continuous Bernoulli Decoder
 
 This project implements a Variational Autoencoder (VAE) from scratch using PyTorch to model the MNIST dataset by maximising the variational lower-bound using stochastic gradient ascent.
 
