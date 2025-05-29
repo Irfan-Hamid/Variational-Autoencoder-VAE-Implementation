@@ -29,6 +29,5 @@ This project implements a Variational Autoencoder (VAE) in PyTorch to model the 
 
 ## How to Run
 
-- Clone the repository.  
 - Open and run the `VAE.ipynb` notebook in Google Colab.
 
